@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Helms Deep Castle Defense.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\aallb\src\helms-deep-castle-defense\Helms Deep Castle Defense\.idea\.idea.Helms Deep Castle Defense\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
